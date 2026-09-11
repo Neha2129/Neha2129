@@ -36,4 +36,4 @@ subject-wise performance, attendance, study hours, and performance trends.
 
 ## 🤝 Let's Connect
 
-LinkedIn: [[Add your LinkedIn profile link]](https://www.linkedin.com/in/neha-ghanwat-05975237b?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+LinkedIn: [(https://www.linkedin.com/in/neha-ghanwat-05975237b?utm_source=share_via&utm_content=profile&utm_medium=member_ios)]
